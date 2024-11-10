@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebAppYte.Models.ChiNhanh>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml";
+}
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userAdmin");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+
+
+
+<h3> Quản lý chi nhánh</h3>
+<p>
+    <h4><button class="btn-default">@Html.ActionLink("Thêm chi nhánh", "Add", new { id = u.Mand })</button></h4>
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Số thứ tự
+        </th>
+        <th>
+            Chi nhánh
+        </th>
+        <th></th>
+    </tr>
+
+    @{
+        int count = 0;
+    }
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @(++count)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachi)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.Machinhanh}) |
+                @Html.ActionLink("Xoá", "Delete", new { id = item.Machinhanh })
+            </td>
+        </tr>
+    }
+
+</table>

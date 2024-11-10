@@ -1,0 +1,207 @@
+﻿@model IPagedList<WebAppYte.DAO.LichKham>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("user");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<BenhNhan>(uJson) : null;
+}
+
+<style type="text/css">
+    .body {
+        background: #fafafa url(https://jackrugile.com/images/misc/noise-diagonal.png);
+        color: #444;
+        font: 100%/30px 'Helvetica Neue', helvetica, arial, sans-serif;
+        text-shadow: 0 1px 0 #fff;
+    }
+
+    strong {
+        font-weight: bold;
+    }
+
+    em {
+        font-style: italic;
+    }
+
+    table {
+        background: #f5f5f5;
+        border-collapse: separate;
+        box-shadow: inset 0 1px 0 #fff;
+        font-size: 12px;
+        line-height: 24px;
+        margin: 30px auto;
+        text-align: left;
+        width: 100%;
+    }
+
+    th {
+        background: url(https://jackrugile.com/images/misc/noise-diagonal.png), linear-gradient(#777, #444);
+        border-left: 1px solid #555;
+        border-right: 1px solid #777;
+        border-top: 1px solid #555;
+        border-bottom: 1px solid #333;
+        box-shadow: inset 0 1px 0 #999;
+        color: #fff;
+        font-weight: bold;
+        padding: 10px 15px;
+        position: relative;
+        text-shadow: 0 1px 0 #000;
+    }
+
+        th:after {
+            background: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.08));
+            content: '';
+            display: block;
+            height: 25%;
+            left: 0;
+            margin: 1px 0 0 0;
+            position: absolute;
+            top: 25%;
+            width: 100%;
+        }
+
+        th:first-child {
+            border-left: 1px solid #777;
+            box-shadow: inset 1px 1px 0 #999;
+        }
+
+        th:last-child {
+            box-shadow: inset -1px 1px 0 #999;
+        }
+
+    td {
+        border-right: 1px solid #fff;
+        border-left: 1px solid #e8e8e8;
+        border-top: 1px solid #fff;
+        border-bottom: 1px solid #e8e8e8;
+        padding: 10px 15px;
+        position: relative;
+        transition: all 300ms;
+    }
+
+        td:first-child {
+            box-shadow: inset 1px 0 0 #fff;
+        }
+
+        td:last-child {
+            border-right: 1px solid #e8e8e8;
+            box-shadow: inset -1px 0 0 #fff;
+        }
+
+    tr {
+        background: url(https://jackrugile.com/images/misc/noise-diagonal.png);
+    }
+
+        tr:nth-child(odd) td {
+            background: #f1f1f1 url(https://jackrugile.com/images/misc/noise-diagonal.png);
+        }
+
+        tr:last-of-type td {
+            box-shadow: inset 0 -1px 0 #fff;
+        }
+
+            tr:last-of-type td:first-child {
+                box-shadow: inset 1px -1px 0 #fff;
+            }
+
+            tr:last-of-type td:last-child {
+                box-shadow: inset -1px -1px 0 #fff;
+            }
+
+    tbody:hover td {
+        color: transparent;
+        text-shadow: 0 0 3px #aaa;
+    }
+
+    tbody:hover tr:hover td {
+        color: #444;
+        text-shadow: 0 1px 0 #fff;
+    }
+</style>
+
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div>
+    <div class="nivo-slice" name="0" style="left: 0px; width: 1530px; height: 160px; opacity: 1; overflow: hidden;">
+        <div class="col-sm-12" style="position:absolute; width:1519px; height:auto; display:block !important; top:180px; left:200px;">
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/Home/Index">TRANG CHỦ</a><span class="separator"> &gt; </span><span class="last">LỊCH SỬ KHÁM</span></p></nav>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+<div class="body">
+
+
+
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Bác Sĩ</th>
+                <th>Hình Thức</th>
+                <th>Ngày Đặt</th>
+                <th>Ca Khám</th>
+                <th>Ngày Khám</th>
+                <th>Mô tả</th>
+                <th>Ghi chú bác sĩ</th>
+                <th>Trạng Thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int count = 0;
+            }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><strong>@(++count)</strong></td>
+                    <td><strong>@item.hoten</strong></td>
+                    <td>@item.hinhthuc</td>
+                    <td>@item.ngaydat</td>
+                    <td>@item.ca</td>
+                    <td>@(item.ngaykham != null ? item.ngaykham : "Chưa khám")</td>
+                    <td>@item.mota</td>
+                    <td>@(item.donthuoc != null ? item.donthuoc.Trim() : "")</td>
+                    <td>
+                        @if (@item.trangthai == 0)
+                        {
+                            <h5 style="color:blueviolet"> Đang chờ xác nhận. </h5>
+                        }
+                        else if (@item.trangthai == 1)
+                        {
+                            <h5 style="color:orange"> Đã xác nhận lịch </h5>
+                        }
+                        else
+                        {
+                            <h5 style="color:green"> Đã tư vấn xong. </h5>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+
+
+<br />
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Histories",  new { page }))
+
+

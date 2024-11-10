@@ -1,0 +1,183 @@
+﻿@model WebAppYte.Models.NguoiDung
+<script src="~/Common/ckeditor/ckeditor.js"></script>
+<script src="~/Common/ckfinder/ckfinder.js"></script>
+<script src="~/Scripts/jquery-3.4.1.slim.js"></script>
+@{ ViewBag.Title = "Create";
+                Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml"; }
+
+<h2>Thông tin thêm mới</h2>
+
+@using (Html.BeginForm())
+{
+@Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.Hoten, "Họ tên", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Hoten, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Hoten, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ngaysinh, "Ngày sinh", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <input class="form-control text-box single-line" data-val="true" data-val-date="The field Bắt đầu must be a date." id="ngaysinh" name="ngaysinh" type="date" data-date="" data-date-format="DD/MMMM/YYYY" />
+            <span class="field-validation-valid text-danger" data-valmsg-for="ngaysinh" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Gioitinh, "Giới tính", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <select class="form-control" id="gioitinh" name="gioitinh">
+
+                <option>Nam</option>
+                <option>Nữ</option>
+            </select>
+            @Html.ValidationMessageFor(model => model.Gioitinh, "", new { @class = "text-danger" })
+
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Sdt, "SDT", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Sdt, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Sdt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, "Email", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Diachi, "Địa chỉ", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Diachi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Diachi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Hocham, "Học hàm", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Hocham, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Hocham, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Hocvi, "Học vị", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Hocvi, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Hocvi, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Gioithieu, "Giới thiệu", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @* @Html.TextAreaFor(model => model.gioithieu, new { htmlAttributes = new { @class = "form-control" } })*@
+            <textarea cols="135" rows="4" name="gioithieu" id="gioithieu" value="" style = "width: 100%;"></textarea>
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Makhoa, "Khoa", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("makhoa", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Makhoa, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Machinhanh, "Chi nhánh", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("machinhanh", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Machinhanh, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Tendn, "Tên đăng nhập", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Tendn, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Tendn, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Mk, "Mật khẩu", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Mk, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Mk, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Quyen, "Quyền", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Quyen, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Quyen, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Anh, "Hình ảnh", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" class="form-control" id="tenAnh" readonly name="anh">
+                @Html.HiddenFor(model => model.Anh, new { htmlAttributes = new { @class = "form-control", @id = "duongDanAnh" } })
+                <button id="chonDuongDanAnh" type="button" class="btn btn-info"> Chọn ảnh<i class="fas fa-image font-size-20"></i></button>
+                @Html.ValidationMessageFor(model => model.Anh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Lưu" class="btn btn-default" />
+        </div>
+    </div>
+</div>}
+<div>
+    @Html.ActionLink("Quay lại", "Index")
+</div>
+
+<script>
+    document.getElementById('chonDuongDanAnh').addEventListener('click', function () {
+        var input = document.createElement('input');
+        input.type = 'file';
+
+        input.onchange = function (e) {
+            var file = e.target.files[0];
+            var fileName = file.name;
+
+            var formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/Upload/Upload', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    document.getElementById('tenAnh').value = fileName;
+                    document.getElementById('duongDanAnh').value = data.Path;
+                })
+                .catch(error => console.error('Error:', error));
+        };
+
+        input.click();
+    });
+</script>

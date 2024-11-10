@@ -1,0 +1,146 @@
+﻿@model WebAppYte.Models.BaiViet
+
+<script src="~/Common/ckeditor/ckeditor.js"></script>
+<script src="~/Common/ckfinder/ckfinder.js"></script>
+<script src="~/Scripts/jquery-3.4.1.slim.js"></script>
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userBS");
+    var userBS = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div>
+    <div class="nivo-slice" name="0" style="left: 0px; width: 1530px; height: 160px; opacity: 1; overflow: hidden;">
+        <div class="col-sm-12" style="position:absolute; width:1519px; height:auto; display:block !important; top:165px; left:170px;">
+
+            <h2>Thêm bài viết tin tức</h2>
+        </div>
+
+    </div>
+
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Tieude, "Tiêu đề", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Tieude, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Tieude, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Noidung, "Nội dung", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <textarea cols="20" htmlattributes="{ class = form-control }" id="noidung" name="noidung" rows="2" style="width: 100%; color:black; max-width: 500px;"></textarea>
+                <span class="field-validation-valid text-danger" data-valmsg-for="noidung" data-valmsg-replace="true"></span>
+            </div>
+
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Hinhanh, "Hình ảnh", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" class="form-control" id="tenAnh" readonly name="anh">
+                @Html.HiddenFor(model => model.Hinhanh, new { htmlAttributes = new { @class = "form-control", @id = "duongDanAnh" } })
+                <button id="chonDuongDanAnh" type="button" class="btn btn-info"> Chọn ảnh<i class="fas fa-image font-size-20"></i></button>
+                @Html.ValidationMessageFor(model => model.Hinhanh, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Mota, "Mô tả", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Mota, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Mota, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Maloai, "Thể loại", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("maloai", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Maloai, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Lưu" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+<script>
+    document.getElementById('chonDuongDanAnh').addEventListener('click', function () {
+        var input = document.createElement('input');
+        input.type = 'file';
+
+        input.onchange = function (e) {
+            var file = e.target.files[0];
+            var fileName = file.name;
+
+            var formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/Upload/Upload', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    document.getElementById('tenAnh').value = fileName;
+                    document.getElementById('duongDanAnh').value = data.Path;
+                })
+                .catch(error => console.error('Error:', error));
+        };
+
+        input.click();
+    });
+</script>
+<script language="javascrip" type="text/javascript">
+
+
+    var ckeditor;
+    function createEditor(languageCode, id) {
+        var editor = CKEDITOR.replace(id, { language: languageCode });
+    }
+    $(function () { createEditor('vi', 'noidung') });
+</script>
+
+@section Scripts {
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+}
+
+
+<div>
+    @Html.ActionLink("Quay lại", "IndexBS",new{id= ViewBag.id})
+</div>

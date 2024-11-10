@@ -1,0 +1,116 @@
+﻿
+@model WebAppYte.Models.CaKham
+
+<script src="~/Common/ckeditor/ckeditor.js"></script>
+<script src="~/Common/ckfinder/ckfinder.js"></script>
+<script src="~/Scripts/jquery-3.4.1.slim.js"></script>
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userBS");
+    var userBS = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div>
+    <div class="nivo-slice" name="0" style="left: 0px; width: 1530px; height: 160px; opacity: 1; overflow: hidden;">
+        <div class="col-sm-12" style="position:absolute; width:1519px; height:auto; display:block !important; top:165px; left:170px;">
+
+            <h2>Chỉnh sửa ca khám</h2>
+        </div>
+
+    </div>
+
+</div>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+
+        @Html.HiddenFor(model => model.Maca)
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.Ngaykham, "Ngày khám", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input class="form-control text-box single-line" data-val="true" data-val-date="The field Bắt đầu must be a date." id="ngaykham" name="ngaykham" type="date" value="@ViewBag.ngay" />
+                <span class="field-validation-valid text-danger" data-valmsg-for="ngaysinh" data-valmsg-replace="true"></span>
+            </div>
+            @Html.ValidationMessageFor(model => model.Ngaykham, "", new { @class = "text-danger" })
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Hinhthuc, "Hình thức", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+
+                <select class="form-control" id="hinhthuc" name="hinhthuc">
+
+                    <option>Ca Sáng</option>
+                    <option>Ca Chiều, tối</option>
+                    <option>Khám online</option>
+                </select>
+                @Html.ValidationMessageFor(model => model.Hinhthuc, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Ca, "Khung giờ", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Ca, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Ca, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Lưu" class="btn btn-default" />
+            </div>
+        </div>
+    </div>}
+
+<script language="javascrip" type="text/javascript">
+    $(function () {
+        $("#chonDuongDanAnh").click(function () {
+            var ckfiner = new CKFinder();
+            ckfiner.selectActionFunction = function (fileUrl) {
+                $("#Hinhanh").val(fileUrl);
+            };
+            ckfiner.popup();
+        })
+    });
+
+
+    var ckeditor;
+    function createEditor(languageCode, id) {
+        var editor = CKEDITOR.replace(id, { language: languageCode });
+    }
+    $(function () { createEditor('vi', 'Noidung') });</script>
+
+@section Scripts {
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+}
+
+
+<div>
+    <a style="" href="@Url.Action("Index", "CaKham", new { id = userBS.Mand })"> Quay lại</a>
+</div>
+
+

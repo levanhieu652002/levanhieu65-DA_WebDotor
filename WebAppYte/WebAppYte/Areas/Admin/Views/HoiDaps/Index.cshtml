@@ -1,0 +1,90 @@
+﻿@model IEnumerable<WebAppYte.Models.HoiDap>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml";
+}
+
+<h2>Quản lý hỏi đáp</h2>
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Người hỏi
+        </th>
+        <th>
+            Người trả lời
+        </th>
+        <th>
+            Câu hỏi
+        </th>
+        <th>
+            Trả lời
+        </th>
+        <th>
+            Ngày hỏi
+        </th>
+        <th>
+            Ngày trả lời
+        </th>
+        <th>
+            Trạng thái
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MabnNavigation.Tenbn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MandNavigation.Hoten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dap)
+            </td>
+            <td>
+                @item.Ngayhoi.Value.ToString("dd/MM/yyyy")
+            </td>
+            @if (item.Trangthai == 1)
+            {
+                <td>
+                    @item.Ngaytl.Value.ToString("dd/MM/yyyy")
+                </td>
+            }
+            else
+            {
+                <td></td>
+            }
+
+
+            @{
+                if (item.Trangthai == 0)
+                {
+                    <td>
+                        <h5 style="color:red">Chưa trả lời</h5>
+                    </td>
+                }
+                if (item.Trangthai == 1)
+                {
+                    <td>
+                        <h5 style="color:red">Đã trả lời</h5>
+                    </td>
+                }
+            }
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.Ma }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.Ma }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.Ma })
+            </td>
+
+        </tr>
+    }
+
+</table>

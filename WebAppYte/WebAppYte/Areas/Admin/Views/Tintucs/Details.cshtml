@@ -1,0 +1,69 @@
+﻿@model WebAppYte.Models.BaiViet
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml";
+}
+
+<h2>Chi tiết tin tức</h2>
+
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Tiêu đề
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tieude)
+        </dd>
+
+        <dt>
+           Nội dung
+        </dt>
+
+        <dd>
+            @Html.Raw(@Model.Noidung)
+        </dd>
+
+        <dt>
+           Hình ảnh
+        </dt>
+
+        <dd>
+            <a class="thumb_cgia">
+                <img class="img-responsive " loading="lazy" src="~/images/images/@Model.Hinhanh" style="width:150px;height:150px;">
+            </a>
+        </dd>
+
+        <dt>
+           Mô tả
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        <dt>
+          Ngày đăng
+        </dt>
+
+        <dd>
+            @Model.Ngaydang.Value.ToString("dd/MM/yyyy")
+        </dd>
+        <dt>
+           Thể loại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaloaiNavigation.Tenloai)
+        </dd>
+        
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.Mabv }) |
+    @Html.ActionLink("Quay lại", "Index")
+</p>

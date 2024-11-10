@@ -1,0 +1,64 @@
+﻿@model IPagedList<WebAppYte.Models.HoiDap>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewBag.Title = "ListAll";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("user");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<BenhNhan>(uJson) : null;
+
+    var userBSJson = httpContext.Session.GetString("userBS");
+    var userBS = !string.IsNullOrEmpty(userBSJson) ? JsonSerializer.Deserialize<NguoiDung>(userBSJson) : null;
+}
+
+
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div>
+    <div class="nivo-slice" name="0" style="left: 0px; width: 1530px; height: 160px; opacity: 1; overflow: hidden;">
+        <div class="col-sm-12" style="position:absolute; width:1519px; height:auto; display:block !important; top:165px; left:170px;">
+
+            <h3> Tất cả câu hỏi đã trả lời </h3>
+        </div>
+
+    </div>
+
+</div>
+
+@{ if (u == null && userBS == null)
+    {
+        <button class="btn-success">
+            @Html.ActionLink("Đăng nhập để gửi câu hỏi cho bác sĩ. ", "Dangnhap", "Home", null, new { @class = "MauchuMenu" })
+        </button>
+    } }
+<hr />
+<div class="col-md-8">
+    @foreach (var item in Model)
+    {
+        <i>Người gửi : <b>@item.MabnNavigation.Tenbn</b> &nbsp; <i class="fas fa-clock"></i>&nbsp;@item.Ngayhoi.Value.ToString("dd/MM/yyyy")</i>
+        <h4 class="text-info">Câu hỏi:</h4>
+        <h5 class="text-primary">@Html.DisplayFor(modelItem => item.Hoi)</h5>
+        <h4 class="text-warning">Trả lời : </h4>
+        <h5 class="text-success"> @Html.DisplayFor(modelItem => item.Dap)</h5>
+        <hr />}
+    <br />
+    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+    
+    @Html.PagedListPager(Model, page => Url.Action("listAll", new { page }))
+</div>
+<div class="col-md-4">
+    <h4> Trung tâm Đa khoa HK</h4>
+    <img src="~/Common/images/benh-vien-da-khoa-tam-anh-1.jpg" class="img-responsive" />
+    <br />
+    <img src="~/Common/images/bvta_hnoi.jpg" class="img-responsive" />
+</div>
+

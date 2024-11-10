@@ -1,0 +1,101 @@
+﻿@model IEnumerable<WebAppYte.Models.NguoiDung>
+
+@{ ViewBag.Title = "Index";
+                Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml"; }
+<br />
+<h2>QUẢN LÝ BÁC SĨ</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "Create")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Họ tên
+        </th>
+        <th>
+            Ngày sinh
+        </th>
+        <th>
+            Giới tính
+        </th>
+        <th>
+            SĐT
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Chức vụ
+        </th>
+
+        <th>
+            Khoa
+        </th>
+        <th>
+            Chi nhánh
+        </th>
+        <th>
+            Tên đăng nhập
+        </th>
+        <th>
+            Mật khẩu
+        </th>
+      
+        <th>
+            Ảnh
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @item.Hoten
+    </td>
+    <td>
+        @item.Ngaysinh.Value.ToString("dd/MM/yyyy")
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Gioitinh)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Sdt)
+    </td>
+    <td>                  
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Diachi)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Chucvu)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.MakhoaNavigation.Tenkhoa)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.MachinhanhNavigation.Diachi)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Tendn)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Mk)
+    </td>
+  
+    <td>
+        <img class="img-responsive " loading="lazy" src="~/images/images/@item.Anh" style="width:150px;height:150px;">
+    </td>
+
+    <td>
+        @Html.ActionLink("Sửa", "Edit", new { id = item.Mand }) |
+        @Html.ActionLink("Chi tiết", "Details", new { id = item.Mand }) |
+        @Html.ActionLink("Xóa", "Delete", new { id = item.Mand })
+    </td>
+</tr>}
+
+</table>

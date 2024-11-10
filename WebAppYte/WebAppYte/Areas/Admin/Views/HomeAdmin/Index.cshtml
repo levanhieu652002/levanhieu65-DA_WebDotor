@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml";
+}
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userAdmin");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+<br />
+@{
+    if (u != null)
+    {
+        <h3>Trang quản lý Admin</h3>
+        <br />
+        <center><img src="~/images/images/LOGO2.png" /></center>
+    }
+    else
+    {
+        <h3> <a href="/Home/Dangnhap">Đăng nhập ngay </a> </h3>
+    }
+
+
+
+}
+
+
+

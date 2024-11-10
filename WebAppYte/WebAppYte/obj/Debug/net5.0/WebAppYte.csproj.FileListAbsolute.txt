@@ -1,0 +1,1273 @@
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Pack.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.WebAppYte.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhDaNang.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhHaNoi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhSaiGon.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\refint\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhDaNang.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhHaNoi.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhSaiGon.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Pack.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.WebAppYte.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\refint\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+C:\Users\Van Luan\Downloads\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Pack.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.WebAppYte.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppYte.props
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhDaNang.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhHaNoi.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TamAnhSaiGon.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\refint\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Index.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Edit.cshtml.g.cs
+D:\1_hotrodoan\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Add.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Add.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Pack.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.WebAppYte.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppYte.props
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\refint\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TXNinhHoa.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TPNhaTrang.cshtml.g.cs
+C:\Users\Van Luan\Downloads\WebAppYte2\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TPCamRanh.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Pack.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.WebAppYte.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.build.WebAppYte.props
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.WebAppYte.props
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.WebAppYte.props
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Add.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TPCamRanh.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TPNhaTrang.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\TXNinhHoa.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\refint\WebAppYte.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+C:\Users\84923\Desktop\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\ref\WebAppYte.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.xml
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Add.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DaNang.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\HaNoi.cshtml.g.cs
+C:\Users\LE VAN HIEU\Downloads\WebAppYte\WebAppYte\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\SaiGon.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Areas\Admin\Views\web.config
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.Development.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.exe
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\appsettings.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\bundleconfig.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.deps.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.runtimeconfig.dev.json
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\ref\WebAppYte.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebAppYte.Views.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Antlr3.Runtime.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Autofac.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.CKFinder.Connector.Core.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\CKSource.FileSystem.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\EntityFramework.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Humanizer.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\ImageProcessor.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Razor.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Optimization.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\WebGrease.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DA\WebAppYte\WebAppYte\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.AssemblyReference.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfoInputs.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.AssemblyInfo.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CoreCompileInputs.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.MvcApplicationPartsAssemblyInfo.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorAssemblyInfo.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.Manifest.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\staticwebassets\WebAppYte.StaticWebAssets.xml
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\scopedcss\bundle\WebAppYte.styles.css
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.input.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.TagHelpers.output.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorCoreGenerate.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\BenhAns\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Add.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\ChiNhanh\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HoiDaps\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\HomeAdmin\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Khoas\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\LichKhams\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\NguoiDungs\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\QuanTris\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAd.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_LayoutAdd.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tintucs\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Comment.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\DiaChiKham.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Kiemtralichhen.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdangcho.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichdaxacnhan.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Lichsukham.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Quanlyhoidap.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Traloicauhoi.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Bacsi\Xacnhanlichhen.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Histories.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\BenhNhan\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\CaKham\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\ChuyenGiaBacSi.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DaNang.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\DatLichHen.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\HaNoi.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\SaiGon.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\ChuyenGiaBacSi\Search.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Cauhoichoxuly.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Hoidap\ListAll.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangky.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Dangnhap.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Home\Trangchu.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Dangxuly.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\DanhGia.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Datuvanxong.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Daxacnhan.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Lichkham\NhapTTDK.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\Shared\_LayoutUser.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Create.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Delete.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Details.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Edit.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\Index.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\Razor\Views\TinTuc\IndexBS.cshtml.g.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cache
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.RazorTargetAssemblyInfo.cs
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.Views.pdb
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.csproj.CopyComplete
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.dll
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\ref\WebAppYte.dll
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.pdb
+D:\DA\WebAppYte\WebAppYte\obj\Debug\net5.0\WebAppYte.genruntimeconfig.cache

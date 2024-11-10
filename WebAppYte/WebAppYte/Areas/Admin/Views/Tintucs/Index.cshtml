@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebAppYte.Models.BaiViet>
+
+@{ ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml";
+ }
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userAdmin");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+
+
+
+<h3> Quản lý tin tức</h3>
+<p>
+    <h4><button class="btn-default">@Html.ActionLink("Thêm mới tin tức", "Create", new { id = u.Mand })</button></h4>
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Tiêu đề
+        </th>
+        <th>
+            Hình ảnh
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Thể loại
+        </th>
+        <th>
+            Ngày đăng
+        </th>
+        <th></th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Tieude)
+    </td>
+    @*<td>
+            @Html.DisplayFor(modelItem => item.noidung)
+        </td> *@
+<td>
+    <img class="img-responsive " loading="lazy" src="~/images/images/@item.Hinhanh" style="width:150px;height:150px;">
+</td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Mota)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.MaloaiNavigation.Tenloai)
+    </td>
+
+
+    <td>
+        @item.Ngaydang.Value.ToString("dd/MM/yyyy")
+    </td>
+    <td>
+        @Html.ActionLink("Sửa", "Edit", new { id = item.Mabv}) |
+        @Html.ActionLink("Chi tiết", "Details", new { id = item.Mabv }) |
+        @Html.ActionLink("Xóa", "Delete", new { id = item.Mabv })
+    </td>
+</tr>
+}
+
+</table>

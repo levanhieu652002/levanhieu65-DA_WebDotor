@@ -1,0 +1,20 @@
+﻿@model List<DanhGia>
+@using WebAppYte.Models;
+<h3> Đánh giá </h3>
+
+<hr />
+
+<div class="">
+    @foreach (var item in Model)
+    {
+        <i>Người gửi : <b>@item.MabnNavigation.Tenbn</b> &nbsp; <i class="fas fa-clock"></i>&nbsp;@item.Ngay.Value.ToString("dd/MM/yyyy")</i>
+
+                <h5 class="text-primary">  @Html.Raw(item.Noidung)</h5>
+
+                                <hr />}
+    <br />
+
+</div>
+
+
+

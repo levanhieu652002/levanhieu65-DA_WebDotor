@@ -1,0 +1,224 @@
+﻿@model WebAppYte.Models.BenhAn
+
+@{ ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml"; }
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <input type="hidden" name="maba" value="@Model.Maba" />
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Tieude, "Tiêu đề", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.Tieude, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Tieude, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Mabs, "Bác sĩ", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.Mabs, new SelectList(ViewData["bacsis"] as List<WebAppYte.Models.NguoiDung>, "mand", "hoten"), htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Mabs, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    @{
+        var listBN = ViewData["benhnhans"] as List<WebAppYte.Models.BenhNhan>;
+    }
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Mabn, "Bệnh nhân", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.Mabn, new SelectList(ViewData["benhnhans"] as List<WebAppYte.Models.BenhNhan>, "mabn", "tenbn"), htmlAttributes: new { @class = "form-control", @onchange = "selectedValue(this)" })
+            @Html.ValidationMessageFor(model => model.Mabn, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-1">Họ tên: </label>
+        <span id="hoten">@Model.MabnNavigation.Tenbn</span>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-1">Ngày sinh: </label>
+        <span id="ngaysinh">@Model.MabnNavigation.Ngaysinh.Value.ToString("MM/dd/yyyy")</span>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-md-1">Địa chỉ: </label>
+        <span id="diachi">@Model.MabnNavigation.Diachi</span>
+    </div>
+    <div class="row">
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.Ngaykham, "Ngày khám", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @{
+                    var ngaykham = Model.Ngaykham.ToString("yyyy-MM-dd");
+                }
+                @Html.TextBoxFor(model => ngaykham, new { @class = "form-control", @type = "date" })
+                @Html.ValidationMessageFor(model => model.Ngaykham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.Giokham, "Giờ khám", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @{
+                    var giokham = Model.Giokham.ToString("HH:mm:ss");
+                }
+                @Html.TextBoxFor(model => giokham, new { @class = "form-control", @type = "time" })
+                @Html.ValidationMessageFor(model => model.Giokham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Mach, "Mạch", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Mach, htmlAttributes: new { @class = "form-control", @type = "number", @step = "0.01" })
+                @Html.ValidationMessageFor(model => model.Mach, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Nhietdo, "Thân nhiệt", htmlAttributes: new { @class = "control-label col-md-3" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Nhietdo, new { @class = "form-control", @type = "number", @step = "0.01" })
+                @Html.ValidationMessageFor(model => model.Nhietdo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Nhiptho, "Nhiệp thở", htmlAttributes: new { @class = "control-label col-md-3" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Nhiptho, new { @class = "form-control", @type = "number", @step = "0.01" })
+                @Html.ValidationMessageFor(model => model.Nhiptho, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Chieucao, "Cao (m)", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Chieucao, new { @class = "form-control", @id = "chieucao", @value = "0", @oninput = "onCalculateBMI()", @type = "number", @step = "0.01" })
+                @Html.ValidationMessageFor(model => model.Chieucao, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Cannang, "Nặng", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Cannang, new { @class = "form-control", @id = "cannang", @value = "0", @oninput = "onCalculateBMI()", @type = "number", @step = "0.01" })
+                @Html.ValidationMessageFor(model => model.Cannang, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-4">
+            @Html.LabelFor(model => model.Bmi, "BMI", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Bmi, new { @class = "form-control", @readonly = "true", @id = "bmi", @type = "number" })
+                @Html.ValidationMessageFor(model => model.Bmi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.Thiluctrai, "Mắt trái", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Thiluctrai, new { @class = "form-control", @min = 1, @max = 10 })
+                @Html.ValidationMessageFor(model => model.Thiluctrai, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.Thilucphai, "Mắt phải", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Thilucphai, new { @class = "form-control", @min = 1, @max = 10 })
+                @Html.ValidationMessageFor(model => model.Thilucphai, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.NhanapP, "Nhãn áp P", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.NhanapP, new { @class = "form-control", @value = 0 })
+                @Html.ValidationMessageFor(model => model.NhanapP, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group col-6">
+            @Html.LabelFor(model => model.NhanapT, "Nhãn áp T", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.NhanapT, new { @class = "form-control", @value = 0 })
+                @Html.ValidationMessageFor(model => model.NhanapT, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Chuandoan, "Chuẩn đoán lâm sàng", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextAreaFor(model => model.Chuandoan, new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.Chuandoan, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Ketqua, "Kết quả", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <textarea class = "form-control" name="ketqua">@Model.Ketqua</textarea>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-outline-info" />
+        </div>
+    </div>
+</div>}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate-vsdoc.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+    <script>
+        function onCalculateBMI() {
+            var height = $("#chieucao").val();
+            var weight = $("#cannang").val();
+            var bmi = weight / (height * height);
+            $("#bmi").val(bmi.toFixed(2));
+        }
+        function selectedValue(ddlObject) {
+            var id = ddlObject.value;
+            var obj = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewData["benhnhans"],
+                           new Newtonsoft.Json.JsonSerializerSettings
+                           {
+                               ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+                           }))
+            var benhnhan = obj.find(x => x.mabn == id);
+            $("#hoten").text(benhnhan.tenbn);
+            $("#ngaysinh").text(new Date(benhnhan.ngaysinh).toLocaleDateString());
+            $("#diachi").text(benhnhan.diachi);
+        }
+    </script>
+}

@@ -1,0 +1,51 @@
+﻿@model WebAppYte.DAO.LichKham
+
+@{ ViewBag.Title = "Delete";
+   Layout = "~/Areas/Admin/Views/Shared/_LayoutAd.cshtml"; }
+
+<h3>Bạn có chắc muốn xóa lịch khám này không?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Bệnh nhân
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tenbn)
+        </dd>
+        <dt>
+            Ngày khám
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaykham)
+        </dd>
+        <dt>
+            Ca khám
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ca)
+        </dd>
+        <dt>
+            Bác sĩ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoten)
+        </dd>
+
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+@Html.AntiForgeryToken()
+
+                <div class="form-actions no-color">
+                    <input type="submit" value="Xóa" class="btn btn-default" /> |
+                    @Html.ActionLink("Quay lại", "Index")
+                </div>}
+</div>
+

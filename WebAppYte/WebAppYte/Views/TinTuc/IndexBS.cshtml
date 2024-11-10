@@ -1,0 +1,87 @@
+﻿@model IEnumerable<WebAppYte.Models.BaiViet>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList;
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("userBS");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<NguoiDung>(uJson) : null;
+}
+
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div>
+    <div class="nivo-slice" name="0" style="left: 0px; width: 1530px; height: 160px; opacity: 1; overflow: hidden;">
+        <div class="col-sm-12" style="position:absolute; width:1519px; height:auto; display:block !important; top:165px; left:170px;">
+
+            <h2>Bài viết tin tức</h2>
+        </div>
+
+    </div>
+
+</div>
+
+<p>
+    <h4><button class="btn-default">@Html.ActionLink("Thêm bài viết tin tức", "Create", new { id = @ViewBag.id})</button></h4>
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            Tiêu dề
+        </th>
+        @*<th>
+           Nội dung
+        </th>*@
+        <th>
+            Hình ảnh
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Loại
+        </th>
+        <th>
+            Ngày đăng
+        </th>
+        <th></th>
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Tieude)
+    </td>
+    @*<td>
+        @Html.DisplayFor(modelItem => item.noidung)
+    </td> *@
+<td>
+    <img class="img-responsive " loading="lazy" src="~/images/images/@item.Hinhanh" style="width:150px;height:150px;">
+</td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Mota)
+    </td>
+    <td>
+                @Html.DisplayFor(modelItem => item.MaloaiNavigation.Tenloai)
+    </td>
+
+
+    <td>
+      @item.Ngaydang.Value.ToString("dd/MM/yyyy")
+    </td>
+    <td>
+        @Html.ActionLink("Sửa", "Edit", new { id = item.Mabv }) |
+        @Html.ActionLink("Chi tiết", "Details", new { id = item.Mabv }) |
+        @Html.ActionLink("Xóa", "Delete", new { id = item.Mabv })
+    </td>
+</tr>
+}
+
+</table>

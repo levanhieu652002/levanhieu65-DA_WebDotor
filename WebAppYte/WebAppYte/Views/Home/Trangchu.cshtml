@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Trangchu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using Microsoft.AspNetCore.Http
+@using System.Text.Json;
+@using WebAppYte.Models
+
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewBag.Title = "Trangchu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var httpContext = HttpContextAccessor.HttpContext;
+    var uJson = httpContext.Session.GetString("user");
+    var u = !string.IsNullOrEmpty(uJson) ? JsonSerializer.Deserialize<BenhNhan>(uJson) : null;
+    var userBSJson = httpContext.Session.GetString("userBS");
+    var userBS = !string.IsNullOrEmpty(userBSJson) ? JsonSerializer.Deserialize<NguoiDung>(userBSJson) : null;
+}
+<br />
+<div id="nivoslider" class="slides nivoSlider">
+
+    <div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div><div class="nivo-slice" name="0" style="left: 0px; width: 1519px; height: 515px; opacity: 1; overflow: hidden;"><img src="~/images/images/lhts-banner-12-desk.jpg" style="position:absolute; width:1519px; height:400px; display:block !important; top:160px; left:-0px;"></div>
+
+</div>
+@{
+    if (u != null)
+    {
+        // hiển thị phí người dùng
+        <div>
+            <h3>Chúc mừng bạn @u.Tenbn đã đăng nhập thành công.</h3>
+            <br />
+            Cập nhật thông tin cá nhân ngay!.
+            <a class="btn-success" href="@Url.Action("Details", "BenhNhan", new { id = u.Mabn })"> Click </a>
+        </div>
+    }
+    else
+    {
+        // hiển thị phía bác sĩ
+        <div>
+            <center><h3>Đã đăng nhập thành công.</h3></center>
+            <br />
+            <center><span style="font-size: 23px;">Xem lịch khám ngay!</span></center>
+        </div>
+    }
+}
+
